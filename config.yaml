@@ -1,0 +1,5 @@
+name: function-mystifying-karol3
+namespace: default
+runtime: python39
+source:
+    sourceType: inline
